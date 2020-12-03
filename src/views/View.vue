@@ -32,9 +32,8 @@
         </div>
         <div class="tags-view">
           <small
-            >Hight speed wifi <span>-</span> Deskspace <span>-</span> Safe
-            location</small
-          >
+            >Alta velocidad en internet<span>-</span> Escritorio <span>-</span> ubicacion segura
+            </small>
         </div>
         <div class="icons-view">
           <div class="rooms-items">
