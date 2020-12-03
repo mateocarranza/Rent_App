@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.app",
+  "appName": "Rent_App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "Dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
